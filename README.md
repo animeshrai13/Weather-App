@@ -4,4 +4,5 @@ This is a cool weather app made in vanilla (pure) Javascript.
 
 In this app, I have fetched openweathermap.org API for current weather report.
 
-Hope you'll like this!
+![Screenshot (944)](https://user-images.githubusercontent.com/81522508/133996642-05bc7f7f-6144-4082-bc8c-deab7f1913fe.png)
+
