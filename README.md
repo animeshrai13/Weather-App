@@ -1,4 +1,4 @@
-# Weather App - https://animeshrai13.github.io/Weather-App/
+
 
 This weather app is made with the help of HTML , CSS and Javascript.
 
